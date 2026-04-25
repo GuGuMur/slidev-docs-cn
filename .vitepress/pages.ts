@@ -40,6 +40,10 @@ export const Guides = [
     link: '/guide/hosting',
   },
   {
+    text: '与AI协作',
+    link: '/guide/work-with-ai',
+  },
+  {
     text: '常见问题',
     link: '/guide/faq',
   },
