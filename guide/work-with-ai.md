@@ -40,7 +40,7 @@ Configure the presentation for PDF export with speaker notes
 
 Slidev 技能提供了以下方面的知识：
 
-- Markdown 语法、幻灯片分隔符和 Frontmatter 
+- Markdown 语法、幻灯片分隔符和 Frontmatter
 - 点击动画与过渡效果
 - 代码高亮、Monaco 编辑器和 Magic Move
 - 图表（Mermaid, PlantUML）与 LaTeX 数学公式
